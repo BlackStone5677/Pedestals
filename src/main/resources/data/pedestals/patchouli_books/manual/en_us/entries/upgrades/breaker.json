@@ -8,7 +8,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Mines a block from the bottom side of the pedestal (it can insta-mine obsidian)$(br)Like any other upgrade you can change the way it places by utilizing the placement angle$(br)Can be enchanted using the fortune and silk touch enchant$(br)Inserting a pickaxe into the pedestal will have it switch to using that tool instead."
+      "text": "Mines a block from the bottom side of the pedestal (It can Insta-Mine obsidian)$(br)You can change the block it breaks by utilizing the placement angle$(br)Can be enchanted using the fortune and silk touch enchants$(br)Putting in a pickaxe will have it switch to using that tool instead."
     },
     {
       "type": "crafting",
@@ -18,11 +18,11 @@
     },
     {
       "type": "text",
-      "text": "The block breaker can be enchanted using the range enchant and the speed enchant$(br)The range enchant will make it that the block breaker will only break block in it's specified range, for an example in the default upgrade the block breaker will break the block in the front of it but with range enchant it'll break the block in the 2 block away from it and every level will increase the range which it can break block with max range of 16."
+      "text": "The block breaker upgrade can be enchanted using the range and the speed enchants$(br)The range enchant will make it that the block breaker will only break block in it's specified range, for an example in the default upgrade the block breaker will break the block in front of it, but with the range enchant it'll break the blocks in the 2 block range away from it in the direction it is looking at, and every level will increase the range which it can break blocks in with the formula: lvl+1, with a max range of 16 blocks."
     },
     {
       "type": "text",
-      "text": "With each level it'll increase the range by 1,2,4,4,4$(br)The speed enchant will speed up the delay between it's operation,for further information please check the Enchantments tab"
+      "text": "With each level it'll increase the range by 1,2,4,4,4$(br)The speed enchant will decrease the delay between it's operation, for further information please check the Enchantments tab"
     }
   ]
 }
