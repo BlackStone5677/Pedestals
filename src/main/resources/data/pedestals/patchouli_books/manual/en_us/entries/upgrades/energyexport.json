@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "Export Energy from the PEN, into Inserted Items, or Attached Blocks/Machines. Cannot Send Energy to Other Connected Pedestals."
+      "text": "Export Energy from the PEN(Pedestals Energy Network), into Inserted Items, or Attached Blocks/Machines. Cannot send Energy to other connected pedestals, Can only accept energy from pedestals."
     }
   ]
 }
