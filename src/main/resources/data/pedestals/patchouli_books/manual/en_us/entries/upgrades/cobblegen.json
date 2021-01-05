@@ -13,11 +13,11 @@
     },
     {
       "type": "text",
-      "text": "Because there is already a stack in the pedestal you can't add cobble to the buffer yourself normally, if you want to store cobble in the pedestal (like when you've gone mining and have a ton of cobble) you can drop the cobble onto the pedestal using 'Q' key (default) or pulling stacks out of your inventory right infront of the pedestal so they fall on it and not on the ground."
+      "text": "Because there is already a stack in the pedestal you can't add cobble to the buffer yourself normally, if you want to store cobble in the pedestal (like when you've gone mining and have a ton of cobble) you can drop the cobble onto the pedestal using the drop item key (default : 'Q') or pulling stacks out of your inventory right infront of the pedestal so they fall on it and not on the ground."
     },
     {
       "type": "text",
-      "text":"$(br)Using the Exp Anvil you can enchant the upgrade with silktouch, which will generate stone instead of cobble.$(br)Due to the nature of generating free resources, when removing the upgrade from the pedestal, the buffer clears and resets to 0, only the stack in the pedestal will remain."
+      "text":"$(br)Using the Exp Anvil you can enchant the upgrade with silktouch, which will generate stone instead of cobble.$(br)Due to the nature of generating free resources, when removing the upgrade from the pedestal, the buffer clears and resets to 0, and only the stack in the pedestal will remain."
     }
   ]
 }
