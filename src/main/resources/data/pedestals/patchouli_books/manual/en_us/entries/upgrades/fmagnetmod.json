@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "Will Gather up Items in the area around it, and if they match the mod of the items in the below inventory, it will put them in the pedestal."
+      "text": "Will gather up items in the area around it$(br)If they match the mod of the items in the below inventory, It'll put them in the pedestal."
     }
   ]
 }
