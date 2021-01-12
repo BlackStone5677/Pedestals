@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "Only allows matching items from the 'below' inventory with the same mod to pass through.$(br)For example if you have a vanilla minecraft stick in the 'below' inventory, any vanilla minecraft item will pass through the pedestal."
+      "text": "Only allows items that match mods with the below inventory contents to pass through.$(br)For example if you have a vanilla minecraft stick in the below inventory, any vanilla minecraft item will pass through the pedestal."
     }
   ]
 }
