@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "Checks if any items in the 'below' inventory can be sent to a connected pedestal. If true, it pulls those items out of the chest and into the pedestal for the pedestal to send off.$(br) Default speed is 1 item transferred per second, but can be increased to 64 items per tick (1280 items per second at 20tps)."
+      "text": "Checks if any items in the below inventory can be sent to a connected pedestal. If true, it pulls those items out of the chest and into the pedestal for the pedestal to send off.$(br) Default speed is 1 item transferred per second, but can be increased to 64 items per tick (1280 items per second at 20tps)."
     }
   ]
 }
