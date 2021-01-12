@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "Exports items from the Pedestal Item Network into a 'below' inventory. Default speed is 1 item transferred per second, but can be increased to 64 items per tick (1280 items per second at 20tps)."
+      "text": "Exports items from the Pedestal Item Network into a 'below' inventory. Default speed is 1 item transferred per second, but can be increased to 64 items per tick using enchants and augments (1280 items per second at 20tps)."
     }
   ]
 }
