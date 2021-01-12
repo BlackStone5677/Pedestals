@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "This set of Upgrades checks a below inventory for a renamed item, the renamed item must be named after a tag to function, for example an item renamed 'forge:stone'. (one tag name per renamed item)"
+      "text": "This set of upgrades check a below inventory for a renamed item, the renamed item must be named after a tag to function, for example, an item renamed 'forge:stone' can transport any stones that have the matching tag including 'forge:stone/marble' as an example. (one tag name per renamed item)"
     }
   ]
 }
