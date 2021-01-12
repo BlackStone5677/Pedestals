@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "This upgrade requires an inventory below it, this upgrade checks the item trying to pass, if the enchants on the item match the enchants on an item in the filter exactly, they they will pass."
+      "text": "This upgrade requires an inventory below it, this upgrade checks the item trying to pass, if the enchants on the item match the enchants on an item in the filter exactly, then they will pass."
     }
   ]
 }
