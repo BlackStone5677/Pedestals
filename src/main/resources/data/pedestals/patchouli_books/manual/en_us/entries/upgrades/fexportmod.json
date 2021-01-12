@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "Compares Incoming Items to those in the inventory below. Will only accept and insert items from the same Mod.$(br)Default speed is 1 item transferred per second, but can be increased to 64 items per tick (1280 items per second at 20tps)."
+      "text": "Compares incoming items to those in the inventory below. Will only accept and insert items from the same Mod.$(br)Default speed is 1 item transferred per second, but can be increased to 64 items per tick (1280 items per second at 20tps)."
     }
   ]
 }
