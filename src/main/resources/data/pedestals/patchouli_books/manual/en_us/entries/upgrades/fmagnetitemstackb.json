@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "Will Gather up Items in the area around it, if they dont match the itemstack in the below inventory, it will put them in the pedestal."
+      "text": "Will gather up items in the area around it$(br)If they don't match the ItemStack in the below inventory, It'll put them in the pedestal."
     }
   ]
 }
